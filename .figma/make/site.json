@@ -1,0 +1,10 @@
+{
+  "description": "Showcases an interdisciplinary researcher’s projects, case studies, and analytical skills for graduate admissions and opportunities in marketing, research, and data.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
